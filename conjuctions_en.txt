@@ -1,0 +1,105 @@
+CONJUNÇÕES
+
+- ADITIVAS
+
+	    AND                                    E
+	    NOT ONLY ... BUT ALSO                  NÃO SÓ ... MAS TAMBÉM
+	    NOT ONLY ... BUT ... AS WELL           NÃO SÓ ... MAS ... TAMBÉM
+	    BOTH ... AND ...                       AMBOS ... E ...
+	    NO SOONER ... THAN                     NÃO ANTES DE 
+
+
+- ALTERNATIVAS OU DISJUNTIVAS
+	
+	    OR                                     OU   
+	    EITHER ... OR ...                      OU ... OU ...
+	    NEITHER ... NOR ...                    NEM ... NEM ...
+	    WHETER ... OR ...			   SEJA ... OU ...
+	    OTHERWISE                              DE OUTRA FORMA
+
+	    
+- CONDICIONAIS
+
+	    IF                                     SE
+	    WHETER                                 SE
+	    UNLESS                                 A MENOS QUE
+	    PROVIDED                               CONTANTO QUE
+	    AS LONG AS                             CONTANTO QUE
+	    IN CASE                                NO CASO DE
+	    IN CASE OF                             NO CASO DE
+
+
+- CONCESSIVAS 
+
+	    ALBEIT				   EMBORA
+	    ALTHOUGH                               EMBORA
+	    THOUGH                                 EMBORA
+	    EVEN THOUGH                            MESMO QUE
+	    EVEN IF                                MESMO SE
+	    DESPITE                                APESAR
+	    IN SPITE OF                            APESAR DE
+	    NOT EVEN IF                            NEM MESMO SE
+	    REGARDLESS OF                          INDEPENDENTE DE 
+	    
+	
+- CONCLUSIVAS
+
+	    THEREFORE                              PORTANTO
+       	    HENCE                                  PORTANTO
+	    THUS                                   ASSIM
+	    SO                                     ENTÃO
+	    CONSEQUENTLY                           CONSQUENTEMENTE
+	    
+	 
+- CONTINUATIVAS
+
+	    THEN                                   ENTÃO
+	    MOREOVER                               ALÉM DISSO
+	    FURTHERMORE                            ALÉM DO MAIS
+	    BESIDES                                ALÉM DISSO
+	    IN ADDITION TO                         ALÉM DE
+	    
+	    
+- ADVERSATIVAS 
+
+	    BUT 				   MAS
+	    HOWEVER                                NO ENTANTO
+	    NONETHELESS                            NÃO OBSTANTE
+	    YET                                    AINDA ASSIM
+	    STILL                                  AINDA
+	    ON THE OTHER HAND                      POR OUTRO LADO
+	    INSTEAD                                EM VEZ DE
+	    INSTEAD OF                             EM VEZ DE
+	    ON THE CONTRARY                        PELO CONTRÁRIO
+	    
+	  
+- CAUSAIS 
+
+	    BECAUSE                                PORQUE
+	    FOR                                    PORQUE
+	    BECAUSE OF                             POR CAUSA DE
+	    AS A RESULT OF                         COMO RESULTADO DE
+	    DUE TO                                 DEVIDO A
+	    OWING TO                               DEVIDO A
+	    SINCE                                  DESDE
+	    AS                                     COMO	      
+	    
+	   
+- COMPARATIVAS
+
+	    AS                                     TÃO
+	    AS ... AS ... 			   TÃO ... TÃO ...
+	    NOT AS ... AS ...                      NÃO TÃO ... TÃO
+	    NOT SO ... AS ...                      NÃO TÃO ... QUANTO ...
+	    JUST AS ... SO ...                     TÃO ... QUANTO ...
+	    AS IF                                  COMO SE
+	    AS THOUGH                              COMO SE
+	    
+	   
+- FUNCIONAIS 
+
+	    SO                                     ASSIM
+	    SO THAT                                DE MODO QUE
+	    SO AS SO                               DE MODO A
+	    SO AS NOT SO                           DE MODO A NÃO
+	    IN ORDER TO	                           AFIM DE
