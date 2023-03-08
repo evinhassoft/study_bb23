@@ -14,7 +14,7 @@ CONJUNÇÕES
 	    OR                                     OU   
 	    EITHER ... OR ...                      OU ... OU ...
 	    NEITHER ... NOR ...                    NEM ... NEM ...
-	    WHETER ... OR ...			   SEJA ... OU ...
+	    WHETER ... OR ...			       SEJA ... OU ...
 	    OTHERWISE                              DE OUTRA FORMA
 
 	    
@@ -31,7 +31,7 @@ CONJUNÇÕES
 
 - CONCESSIVAS 
 
-	    ALBEIT				   EMBORA
+	    ALBEIT				             EMBORA
 	    ALTHOUGH                               EMBORA
 	    THOUGH                                 EMBORA
 	    EVEN THOUGH                            MESMO QUE
@@ -45,7 +45,7 @@ CONJUNÇÕES
 - CONCLUSIVAS
 
 	    THEREFORE                              PORTANTO
-       	    HENCE                                  PORTANTO
+          HENCE                                  PORTANTO
 	    THUS                                   ASSIM
 	    SO                                     ENTÃO
 	    CONSEQUENTLY                           CONSQUENTEMENTE
@@ -62,7 +62,7 @@ CONJUNÇÕES
 	    
 - ADVERSATIVAS 
 
-	    BUT 				   MAS
+	    BUT 				             MAS
 	    HOWEVER                                NO ENTANTO
 	    NONETHELESS                            NÃO OBSTANTE
 	    YET                                    AINDA ASSIM
@@ -88,7 +88,7 @@ CONJUNÇÕES
 - COMPARATIVAS
 
 	    AS                                     TÃO
-	    AS ... AS ... 			   TÃO ... TÃO ...
+	    AS ... AS ... 			       TÃO ... TÃO ...
 	    NOT AS ... AS ...                      NÃO TÃO ... TÃO
 	    NOT SO ... AS ...                      NÃO TÃO ... QUANTO ...
 	    JUST AS ... SO ...                     TÃO ... QUANTO ...
@@ -102,4 +102,4 @@ CONJUNÇÕES
 	    SO THAT                                DE MODO QUE
 	    SO AS SO                               DE MODO A
 	    SO AS NOT SO                           DE MODO A NÃO
-	    IN ORDER TO	                           AFIM DE
+	    IN ORDER TO	                         AFIM DE
