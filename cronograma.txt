@@ -4,11 +4,11 @@ ok SABADO  (04/03): ~Simulado Estratégia (4h)~ + Redação (1h)
 ok DOMINGO (05/03): Revisão do simulado e da redação (3h)
 +- SEGUNDA (06/03): ~TI-Prog: Ansible (1h30)~
 ok TERÇA   (07/03): ~TI-MacL: Alg.Classificação I e II (1h30)~, ~TI-DesM: Java/Kotlin (1h30)~,  ~CB: CVM, CNSP e Susep (1h30)~, ~IG: Questões (1h30)~
-   QUARTA  (08/03): ~TI-Prog: Numpy e Pandas (1h30)~, TI-BanD: Linguagem SQL2008 (1h30), AT: Fintechs, startups, bigtechs, shadowbanking (1h30), LP: Ortografia Oficial (1h30)
-   QUINTA  (09/03): TI-MacL: Alg.Classificação III - Rede Neural (1h30), TI-BanD: (1h30), CB: CNPC e Previc, CRFSN (1h30), PE: (1h00), IG: Questões (0h45)
-   SEXTA   (10/03): TI-Prog:Scipy e Matpolib, Scikit-Learn (1h30)~, TI-BanD: Linguagem SQL2008 (1h30), AT: Fintechs, startups, bigtechs, shadowbanking (1h30), LP: Ortografia Oficial (1h30)
-   SABADO  (11/03): 
-   DOMINGO (12/03):
+ok QUARTA  (08/03): ~TI-Prog: Numpy e Pandas (1h30)~, ~TI-BanD: Normalização I, II (1h30)~, ~AT: Fintechs, startups, bigtechs, shadowbanking (1h30)~, ~LP: Ortografia Oficial e Colocação Pronominal e Concordâcia I (1h30)~
+ok QUINTA  (09/03): ~TI-MacL: Alg.Classificação III - Rede Neural (1h30)~, TI-DesM: Swift (1h30), ~CB: CNPC e Previc, CRFSN (1h30)~, PE: (1h00), IG: Questões (0h45)
+ok SEXTA   (10/03): ~TI-Prog: Scipy e Matpolib, Scikit-Learn (1h30)~, ~TI-BanD: Linguagem SQL2008 (1h30)~, ~AT: Funções da moeda e Criptomoedas (1h30)~, ~LP: Concordância II, III e IV (1h30)~
+ok SABADO  (11/03): TI-MacL: Funções de ativação, Regressão (1h30), TI-DesM: Swift (1h30), CB: BancoS (1h30), ~PE: (1h00)~, IG: Questões (0h45)
+   DOMINGO (12/03): Simulado Gran (2h) + Redação (1h)
    SEGUNDA (13/03):
    TERÇA   (14/03):
    QUARTA  (15/03):
