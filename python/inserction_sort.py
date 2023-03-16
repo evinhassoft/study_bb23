@@ -11,6 +11,6 @@ def inserction_sort(array):
             
         array[index] = current_element
 
-array = [15,11,16,18,23,5,10,22,21,12]
+array = [81,15,4,20,7,47,14,20,4]
 inserction_sort(array)
 print("sorted:", array)

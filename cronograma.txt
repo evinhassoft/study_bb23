@@ -8,8 +8,8 @@ ok QUARTA  (08/03): ~TI-Prog: Numpy e Pandas (1h30)~, ~TI-BanD: Normalização I
 ok QUINTA  (09/03): ~TI-MacL: Alg.Classificação III - Rede Neural (1h30)~, TI-DesM: Swift (1h30), ~CB: CNPC e Previc, CRFSN (1h30)~, PE: (1h00), IG: Questões (0h45)
 ok SEXTA   (10/03): ~TI-Prog: Scipy e Matpolib, Scikit-Learn (1h30)~, ~TI-BanD: Linguagem SQL2008 (1h30)~, ~AT: Funções da moeda e Criptomoedas (1h30)~, ~LP: Concordância II, III e IV (1h30)~
 ok SABADO  (11/03): TI-MacL: Funções de ativação, Regressão (1h30), TI-DesM: Swift (1h30), CB: BancoS (1h30), ~PE: (1h00)~, IG: Questões (0h45)
-   DOMINGO (12/03): Simulado Gran (2h) + Redação (1h)
-   SEGUNDA (13/03):
+ok DOMINGO (12/03): ~Simulado Gran (2h)~ + Redação (1h)
+   SEGUNDA (13/03): ~TI-BanD: Linguagem SQL2008 (ind)~ e ~LP:  (ind)~
    TERÇA   (14/03):
    QUARTA  (15/03):
    QUINTA  (16/03):
