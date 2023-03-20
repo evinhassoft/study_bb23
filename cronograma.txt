@@ -9,9 +9,12 @@ ok QUINTA  (09/03): ~TI-MacL: Alg.Classificação III - Rede Neural (1h30)~, TI-
 ok SEXTA   (10/03): ~TI-Prog: Scipy e Matpolib, Scikit-Learn (1h30)~, ~TI-BanD: Linguagem SQL2008 (1h30)~, ~AT: Funções da moeda e Criptomoedas (1h30)~, ~LP: Concordância II, III e IV (1h30)~
 ok SABADO  (11/03): TI-MacL: Funções de ativação, Regressão (1h30), TI-DesM: Swift (1h30), CB: BancoS (1h30), ~PE: (1h00)~, IG: Questões (0h45)
 ok DOMINGO (12/03): ~Simulado Gran (2h)~ + Redação (1h)
-   SEGUNDA (13/03): ~TI-BanD: Linguagem SQL2008 (ind)~ e ~LP:  (ind)~
-   TERÇA   (14/03):
-   QUARTA  (15/03):
-   QUINTA  (16/03):
-   SEXTA   (17/03):
+ok SEGUNDA (13/03): ~TI-BanD: Linguagem SQL2008 (ind)~ e ~LP:  (ind)~
+ok TERÇA   (14/03):
+ok QUARTA  (15/03):
+ok QUINTA  (16/03):
+ok SEXTA   (17/03): ~TI-BanD - SQL E TRANSAÇAO(2H30)~, ~LP questoes(1H)~, ~Redação6(1H)~, ~ML funçoes de ativação(1H30)~, ~IG questoes(0H30)~,
+OK SABADO  (18/03)
+OK DOMINGO (18/03)
+OK SEGUNDA (20/03): 
 
