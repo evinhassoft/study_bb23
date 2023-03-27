@@ -1,5 +1,6 @@
 import pandas as pd
 
 
-array2 = np.array([1,2,3,4,5,6,7,8,9,10])
-print(array2[::-5])
+data = { 'Name' : ['Jai', 'Princi', 'Gauray', 'Anuj'], 'Address' : [ 'Delhi', 'Kanpur', 'Allahabad', 'Kannauj'], 'Qualification' : [ 'Msc', 'MA', 'MCA', 'Phd'], 'Age' : [22,23,21,34]}
+df = pd.DataFrame(data) 
+print(df [df .columns[0:4:][::-1]]) 

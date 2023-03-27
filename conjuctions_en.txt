@@ -94,6 +94,7 @@ CONJUNÇÕES
 	    JUST AS ... SO ...                     TÃO ... QUANTO ...
 	    AS IF                                  COMO SE
 	    AS THOUGH                              COMO SE
+
 	    
 	   
 - FUNCIONAIS 

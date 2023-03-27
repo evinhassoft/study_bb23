@@ -18,4 +18,9 @@ ok SEXTA   (17/03): ~TI-BanD - SQL E TRANSAÇAO(2H30)~, ~LP questoes(1H)~, ~Reda
    DOMINGO (19/03)
 OK SEGUNDA (20/03): TI BAND-proj.conceitual(MER), TI PROG-python, ingles, TI-ML
 OK TERça   (21/03): TI ML, Band, prog-python, pe e questoes
-   quarta  (22/03): TI: ML - pln, band, python, ig 
+OK quarta  (22/03): TI: ML - pln, band, python, ig , CB
+ok quinta  (23/03): python, banD
+ok sexta   (24/03): Ig, mat, pe, band, python
+ok sabado  (25/03):        ...
+ok domingo (26/03): simulado gran
+ok segunda (27/03): portugues, ML, band, mobiled
