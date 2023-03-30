@@ -1,5 +1,5 @@
 ~ok~, Disciplina: Matéria (Tempo)
-
+d
 ok SABADO  (04/03): ~Simulado Estratégia (4h)~ + Redação (1h) 
 ok DOMINGO (05/03): Revisão do simulado e da redação (3h)
 +- SEGUNDA (06/03): ~TI-Prog: Ansible (1h30)~
@@ -23,4 +23,6 @@ ok quinta  (23/03): python, banD
 ok sexta   (24/03): Ig, mat, pe, band, python
 ok sabado  (25/03):        ...
 ok domingo (26/03): simulado gran
-ok segunda (27/03): portugues, ML, band, mobiled
+ok segunda (27/03): portugues, ML, CB 16, band, // typescript, python
+ok terça   (28/03): typescript 1 2 3 e 4, portugues prova banrisul 11/15, atm, band, python
+ok segunda (29/03): banD-dw, portugues prova bancodaamazonia 7/10, Pe, ingles, python, typescript
