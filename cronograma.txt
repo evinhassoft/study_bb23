@@ -25,4 +25,7 @@ ok sabado  (25/03):        ...
 ok domingo (26/03): simulado gran
 ok segunda (27/03): portugues, ML, CB 16, band, // typescript, python
 ok terça   (28/03): typescript 1 2 3 e 4, portugues prova banrisul 11/15, atm, band, python
-ok segunda (29/03): banD-dw, portugues prova bancodaamazonia 7/10, Pe, ingles, python, typescript
+ok quarta  (29/03): banD-dw, portugues prova bancodaamazonia 7/10, Pe, ingles, python, typescript
+ok quinta  (30/03): ingles, banD-dw
+ok sexta   (31/03): banD-Dw, pt, ig, mat, atm, typescript, ATM-INTENSIVO, python, banD SQL
+ok sabado  (01/04): band-dw,
