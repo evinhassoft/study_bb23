@@ -28,4 +28,12 @@ ok terça   (28/03): typescript 1 2 3 e 4, portugues prova banrisul 11/15, atm, 
 ok quarta  (29/03): banD-dw, portugues prova bancodaamazonia 7/10, Pe, ingles, python, typescript
 ok quinta  (30/03): ingles, banD-dw
 ok sexta   (31/03): banD-Dw, pt, ig, mat, atm, typescript, ATM-INTENSIVO, python, banD SQL
-ok sabado  (01/04): band-dw,
+ok sabado  (01/04): band-dw,ea, python, ig, pt, conhec ban
+ok domingo (02/04): band-psql, pt, conhec ban, Pe, reactnative, types
+ok segunda (03/04): atm, cb, simulado
+ok terça   (04/04): band, questoes
+ok quarta  (05/04): band, java, cb, atm
+ok quinta  (06/04): band - intensivo 1 e 2, big data - intensivo - 1 e 2, mL - intensivo 1 e 2, conhec bncarios, ig
+ok sexta   (07/04): band, cb, ansible, typescript, java, python, ig
+
+next ig: https://www.youtube.com/watch?v=MYG_ywv9-Ac&ab_channel=TeacherAndreaBelo

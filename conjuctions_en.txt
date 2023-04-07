@@ -88,7 +88,7 @@ CONJUNÇÕES
 - COMPARATIVAS
 
 	    AS                                     TÃO
-	    AS ... AS ... 			       TÃO ... TÃO ...
+	    AS ... AS ... 		           TÃO ... TÃO ...
 	    NOT AS ... AS ...                      NÃO TÃO ... TÃO
 	    NOT SO ... AS ...                      NÃO TÃO ... QUANTO ...
 	    JUST AS ... SO ...                     TÃO ... QUANTO ...
@@ -103,4 +103,4 @@ CONJUNÇÕES
 	    SO THAT                                DE MODO QUE
 	    SO AS SO                               DE MODO A
 	    SO AS NOT SO                           DE MODO A NÃO
-	    IN ORDER TO	                         AFIM DE
+	    IN ORDER TO	                           AFIM DE
