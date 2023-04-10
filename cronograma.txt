@@ -35,5 +35,6 @@ ok terça   (04/04): band, questoes
 ok quarta  (05/04): band, java, cb, atm
 ok quinta  (06/04): band - intensivo 1 e 2, big data - intensivo - 1 e 2, mL - intensivo 1 e 2, conhec bncarios, ig
 ok sexta   (07/04): band, cb, ansible, typescript, java, python, ig
-
-next ig: https://www.youtube.com/watch?v=MYG_ywv9-Ac&ab_channel=TeacherAndreaBelo
+ok sabado  (08/04): band, java, eda
+ok domingo (09/04): simulado, ig - simulado 4/5, pt, cb, mtmtk 
+ok segunda (10/04): big data, react native, conhec banc, band, ig
