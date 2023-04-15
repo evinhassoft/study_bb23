@@ -38,3 +38,7 @@ ok sexta   (07/04): band, cb, ansible, typescript, java, python, ig
 ok sabado  (08/04): band, java, eda
 ok domingo (09/04): simulado, ig - simulado 4/5, pt, cb, mtmtk 
 ok segunda (10/04): big data, react native, conhec banc, band, ig
+ok terça   (11/04): questoes, pt, ig
+ok quarta  (12/04): portugues (2h30), cb, band, java, mobil
+ok quinta  (13/04): pt, cb, qg band
+ok sexta   (14/04): pt, mt, atm, java
